@@ -1,1 +1,1 @@
-# gitskills
+# wiki skills
